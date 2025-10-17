@@ -1,4 +1,4 @@
-/****************************************************                                                                                                                                                                              cliente.c                                                                                                                                                                                           /****************************************************
+/**************************************************************                                                                                                                                                                            cliente.c                                                                                                                                                                                           /****************************************************
  * Nombre: Juan Diego Ariza López
  * Materia: Sistemas Operativos
  * Profesor: J. Corredor
@@ -6,7 +6,7 @@
  * Fecha: 16/10/2025
  * Descripción: Cliente FIFO que envía cadenas al servidor
  *              y recibe las cadenas invertidas.
- ****************************************************/
+ ************************************************************/
 
 #include <stdio.h>
 #include <string.h>
