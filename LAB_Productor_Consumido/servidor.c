@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                     servidor.c                                                                                                                                                                                                                                 /****************************************************
+/********************************************************************                                                                                                                                                                                                                   servidor.c                                                                                                                                                                                                                                 /****************************************************
  * Nombre: Juan Diego Ariza López
  * Materia: Sistemas Operativos
  * Profesor: J. Corredor
@@ -6,7 +6,7 @@
  * Fecha: 16/10/2025
  * Descripción: - Servidor FIFO que recibe cadenas, las invierte
  * y las reenvia por el mismo FIFO
- ****************************************************/
+ ********************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -106,4 +106,3 @@ void reverse_string(char *str) {
       last--;
    }
 }
-
