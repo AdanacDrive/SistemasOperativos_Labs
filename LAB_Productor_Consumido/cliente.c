@@ -1,4 +1,4 @@
-                                                                                                                                                                               cliente.c                                                                                                                                                                                           /****************************************************
+/****************************************************                                                                                                                                                                              cliente.c                                                                                                                                                                                           /****************************************************
  * Nombre: Juan Diego Ariza López
  * Materia: Sistemas Operativos
  * Profesor: J. Corredor
@@ -76,4 +76,3 @@ int main() {
    // Finalizar el programa correctamente
    return 0;
 }
-
