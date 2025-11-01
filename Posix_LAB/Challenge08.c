@@ -1,4 +1,5 @@
-/****************************************************
+/******************************************************************************************
+
  * Nombre: Juan Diego Ariza
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
@@ -9,7 +10,7 @@
  * Descripción: Este programa corrige el problema de sincronización del Challenge07.
  * La asignación de la variable 'valor' ahora está protegida dentro del mutex,
  * garantizando que no haya condición de carrera entre los hilos.
- ****************************************************/
+ **************************************************************************************/
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <pthread.h>
