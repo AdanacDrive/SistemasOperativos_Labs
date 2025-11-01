@@ -1,4 +1,4 @@
-/****************************************************
+/****************************************************************
  * Nombre: Juan Diego Ariza
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
@@ -9,7 +9,7 @@
  *              de condición (condition variables) junto con
  *              mutex para sincronizar la ejecución de hilos.
  * 
- *****************************************************/
+ ****************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
