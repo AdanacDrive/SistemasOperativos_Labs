@@ -1,4 +1,4 @@
-/****************************************************
+/************************************************************************************************
  * Nombre: Juan Diego Ariza
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
@@ -9,7 +9,7 @@
  * Descripción:  Este programa corrige el problema de condición de carrera del Challenge05.
  * Se utiliza un mutex para sincronizar el acceso a la variable compartida 'acumulado',
  *  Ahora el resultado siempre será correcto: 2870.
- ****************************************************/
+ *********************************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
