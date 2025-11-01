@@ -1,4 +1,4 @@
-/****************************************************
+/**********************************************************************************
  * Nombre: Juan Diego Ariza
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
@@ -9,7 +9,7 @@
  * Descripción: Suponer que x*x es altamente costoso en cálculo computacional.
  *  Se desea calcular la suma de los cuadrados de una cantidad de números.
  *  Se aplica paralelizar el cálculo de cada cuadrado usando hilos.
- ****************************************************/
+ ********************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
