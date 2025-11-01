@@ -1,4 +1,4 @@
-/****************************************************
+/*************************************************************************
  * Nombre: Juan Diego Ariza
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
@@ -8,7 +8,7 @@
  * Descripción: Programa que crea 10 hilos que incrementan un
  *              contador compartido usando mutex para sincronización.
  *
- ****************************************************/
+ *************************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
