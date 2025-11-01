@@ -1,4 +1,4 @@
-/****************************************************
+/***********************************************************************
  * Nombre: Juan Diego Ariza
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
@@ -8,7 +8,7 @@
  * Descripción: Programa que crea 3 hilos que ejecutan una función
  *             que tiene un ciclo largo mientras
  *              incrementan un contador
- ****************************************************/
+ *********************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
