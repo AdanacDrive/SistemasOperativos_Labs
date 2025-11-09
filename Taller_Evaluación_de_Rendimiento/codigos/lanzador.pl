@@ -4,7 +4,7 @@
 # * Materia: Sistemas Operativos
 # * Profesor: John Corredor, Ph.D.
 # * Universidad: Pontificia Universidad Javeriana
-# * Fecha: Noviembre/2025
+# * Fecha: Noviembre 11 de 2025
 # * Tema: Taller de Evaluación de Rendimiento
 # * Descripción: Script para automatizar la ejecución de
 # *              experimentos de multiplicación de matrices.
