@@ -43,11 +43,6 @@ void FinMuestra(){
 /**
  * Función: impMatrix
  * Imprime una matriz en dos formatos diferentes.
- * 
- * Parámetros:
- * - matrix: Puntero a la matriz
- * - D: Dimensión de la matriz
- * - t: Tipo de impresión (0=normal, 1=transpuesta)
  */
 void impMatrix(double *matrix, int D, int t){
 	int aux = 0;
@@ -106,8 +101,6 @@ void multiMatrixTrans(double *mA, double *mB, double *mC, int D){
 			Suma = 0.0;
 			
 			// Producto punto de fila i de A con fila j de B'
-			// Como B' es la transpuesta de B, esto equivale a:
-			// fila i de A × columna j de B
 			for(int k=0; k<D; k++, pA++, pB++){
 				Suma += *pA * *pB;  // A[i][k] * B'[j][k] = A[i][k] * B[k][j]
 			}
