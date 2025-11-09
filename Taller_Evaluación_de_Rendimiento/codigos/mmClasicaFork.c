@@ -3,7 +3,7 @@
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
  * Universidad: Pontificia Universidad Javeriana
- * Fecha: Noviembre/2025
+ * Fecha: Noviembre 11 de 2025
  * Tema: Taller de Evaluación de Rendimiento
  * Descripción: Multiplicación de matrices con algoritmo clásico
  *              usando paralelización con procesos Fork.
@@ -44,13 +44,6 @@ void FinMuestra(){
 /**
  * Función: multiMatrix
  * Multiplica un rango específico de filas de la matriz A por B.
- * 
- * Parámetros:
- * - mA, mB: Matrices de entrada
- * - mC: Matriz de salida
- * - D: Dimensión de las matrices
- * - filaI: Fila inicial del rango (inclusiva)
- * - filaF: Fila final del rango (exclusiva)
  */
 void multiMatrix(double *mA, double *mB, double *mC, int D, int filaI, int filaF) {
 	double Suma, *pA, *pB;
