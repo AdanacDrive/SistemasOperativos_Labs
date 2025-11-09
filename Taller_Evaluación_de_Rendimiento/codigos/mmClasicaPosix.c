@@ -3,7 +3,7 @@
  * Materia: Sistemas Operativos
  * Profesor: John Corredor, Ph.D.
  * Universidad: Pontificia Universidad Javeriana
- * Fecha: Noviembre/2025
+ * Fecha: Noviembre 11 de 2025
  * Tema: Taller de Evaluación de Rendimiento
  * Descripción: Multiplicación de matrices con algoritmo clásico
  *              usando paralelización con hilos POSIX (Pthreads)
@@ -55,8 +55,6 @@ void FinMuestra(){
 /**
  * Función: iniMatrix
  * Inicializa dos matrices con valores aleatorios.
- * m1: Valores entre 1.0 y 5.0
- * m2: Valores entre 5.0 y 9.0
  */
 void iniMatrix(double *m1, double *m2, int D){ 
 	for(int i = 0; i < D*D; i++, m1++, m2++){
