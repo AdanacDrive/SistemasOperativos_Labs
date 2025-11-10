@@ -1,7 +1,7 @@
 #****************************************************
 # Pontificia Universidad Javeriana
-#
-# Autor: J. Corredor
+# Autor: Juan Diego Ariza
+# Prodesor: J. Corredor
 # Materia: Sistemas Operativos
 # Fichero: Automatización de Compilación
 #****************************************************
