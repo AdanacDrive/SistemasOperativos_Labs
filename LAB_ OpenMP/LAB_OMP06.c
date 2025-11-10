@@ -59,7 +59,7 @@ int main(int argc, char *argv[]) {
     double sum = 0.0;
     int i;
 
-    // Toma el tiempo inicial (reloj en segundos de OpenMP)
+    // Toma el tiempo inicial (reloj en segundos )
     double t_inicio = omp_get_wtime();
 
     // Región paralela: se calcula la sumatoria en paralelo
