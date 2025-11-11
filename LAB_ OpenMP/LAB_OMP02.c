@@ -1,6 +1,7 @@
 /****************************************************
  * Pontificia Universidad Javeriana
  * Autor: Juan Diego Ariza
+ * Profesor: John Corredor, Ph.D.
  * Materia: Sistemas Operativos
  * Noviembre 6 de 2025
  * Tema: Introducción a OPENMP
