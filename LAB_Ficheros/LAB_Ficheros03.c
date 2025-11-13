@@ -1,16 +1,17 @@
-/************************************************
+/*************************************************************************************************
  * 
- * - PONTIFICIA UNIVERSIDAD JAVERIANA
+ * PONTIFICIA UNIVERSIDAD JAVERIANA
  * 
  * Autor: Juan Diego Ariza
  * Profesor: John Corredor, Ph.D.
  * Materia: Sistemas Operativos
  * Tema: Sistema de Ficheros
+ * Fecha: 13/11/2025
  * Descripción: Programa que lee el nombre de un directorio y muestra información
  *              detallada de sus archivos incluyendo permisos y fecha de modificación
  * 
  * 
- ************************************************/
+ ************************************************************************************************/
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
@@ -91,3 +92,4 @@ int main() {
     
     return 0;
 } // fin main
+
