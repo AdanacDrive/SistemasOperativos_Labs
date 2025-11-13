@@ -93,3 +93,11 @@ int main() {
     return 0;
 } // fin main
 
+/********************************************************************************************
+ * NOTAS:
+ * 
+ * Este programa da información más completa sobre los archivos: permisos, tipo y fecha.
+ * Muestra si un archivo fue modificado recientemente.
+ * Se muestran los permisos que tiene cada uno
+ * Proporciona datos más útiles sobre los archivos.
+ ******************************************************************************************/
