@@ -1,15 +1,16 @@
-/************************************************
+/********************************************************************************************
  * 
  * - PONTIFICIA UNIVERSIDAD JAVERIANA
  * 
  * Autor: Juan Diego Ariza
  * Profesor: John Corredor, Ph.D.
  * Materia: Sistemas Operativos
+ * Fecha: 13/11/2025
  * Tema: Sistema de Ficheros
  * Descripción: Crear un programa en C que lea el contenido de un fichero readme.txt
  * 
  * 
- ************************************************/
+ ******************************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 
