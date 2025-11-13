@@ -1,6 +1,6 @@
 /*****************************************************************************************************
  *
- * - PONTIFICIA UNIVERSIDAD JAVERIANA
+ * PONTIFICIA UNIVERSIDAD JAVERIANA
  *
  * Autor: Juan Diego Ariza
  * Profesor: John Corredor, Ph.D.
