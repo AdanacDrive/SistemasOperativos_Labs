@@ -1,16 +1,17 @@
-/************************************************
+/*****************************************************************************************************
  *
  * - PONTIFICIA UNIVERSIDAD JAVERIANA
  *
  * Autor: Juan Diego Ariza
  * Profesor: John Corredor, Ph.D.
+ * Fecha: 13/11/2025
  * Materia: Sistemas Operativos
  * Tema: Sistema de Ficheros
  * Descripción: Programa que lee de teclado el nombre de un directorio 
  *              y muestre en pantalla el nombre y el tamaño y lo que contiene los ficheros
  *
  *
- ************************************************/
+ ***************************************************************************************************/
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <sys/mman.h>
