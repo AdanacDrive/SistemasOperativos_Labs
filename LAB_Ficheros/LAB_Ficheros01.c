@@ -46,3 +46,12 @@ int main(int argc, char *argv[]){
     
     return 0;
 }
+
+/********************************************************************************************
+ * NOTAS:
+ * 
+ * Este programa lee un archivo de texto línea por línea y lo muestra en pantalla.
+ * Es importante cerrar siempre el archivo con fclose() para liberar recursos.
+ * Si el archivo no existe, el programa muestra un error y termina.
+ * El buffer de 256 caracteres limita el tamaño de cada línea que se puede leer.
+ ******************************************************************************************/
