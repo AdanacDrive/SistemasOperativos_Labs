@@ -71,3 +71,11 @@ int main(){
     
     return 0;
 }
+/********************************************************************************************
+ * NOTAS:
+ * 
+ * El programa lista todos los archivos de un directorio con su tamaño en bytes.
+ * Solo muestra archivos regulares, no muestra carpetas ni archivos especiales.
+ * Hay que escribir el nombre del directorio correctamente o dará error.
+ * Es útil para ver rápidamente qué archivos hay en una carpeta y cuánto pesan.
+ ******************************************************************************************/
