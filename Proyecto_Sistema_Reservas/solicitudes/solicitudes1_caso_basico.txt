@@ -1,0 +1,5 @@
+Garcia,8,5
+Martinez,10,8
+Lopez,12,6
+Rodriguez,14,4
+Fernandez,16,7
